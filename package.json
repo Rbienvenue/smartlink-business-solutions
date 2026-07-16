@@ -1,0 +1,38 @@
+{
+  "name": "smartlink-business-solutions",
+  "version": "1.0.0",
+  "description": "SMART LINK Business Solutions - Professional Business, Technology & Digital Solutions",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rbienvenue/smartlink-business-solutions.git"
+  },
+  "keywords": [
+    "business solutions",
+    "technology",
+    "digital marketing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rbienvenue/smartlink-business-solutions/issues"
+  },
+  "homepage": "https://github.com/Rbienvenue/smartlink-business-solutions#readme",
+  "dependencies": {
+    "lucide-react": "^1.24.0",
+    "next": "^16.2.10",
+    "nodemailer": "^9.0.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^19.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
